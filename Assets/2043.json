@@ -1,0 +1,68 @@
+{
+  "name": "Solana Macho Club #2043",
+  "symbol": "SMC",
+  "description": "Solana Macho Club is a collection of rare Macho's that represent masculinity on the solana blockchain.",
+  "seller_fee_basis_points": 918,
+  "image": "2043.png",
+  "external_url": "https://t.me/SolanaMachoClub",
+  "edition": 2043,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Background4"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body1"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mouth1"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Cigar3"
+    },
+    {
+      "trait_type": "Solana",
+      "value": "Logo8"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes6"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose9"
+    },
+    {
+      "trait_type": "Right Ears",
+      "value": "Right Ears3"
+    },
+    {
+      "trait_type": "Left Ears",
+      "value": "Left Ears5"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "2043.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "DotivkgYJsj9J98yvbpSvSREECxXUs3fGUxQFbXL4MdN",
+        "share": 100
+      }
+    ]
+  },
+  "creators": [
+    {
+      "address": "DotivkgYJsj9J98yvbpSvSREECxXUs3fGUxQFbXL4MdN",
+      "share": 100
+    }
+  ]
+}
